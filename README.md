@@ -1,6 +1,7 @@
 [![Gem Version](https://badge.fury.io/rb/language_select_rails.svg)](http://badge.fury.io/rb/language_select_rails)
 [![Dependency Status](https://gemnasium.com/kiterminal/language_select_rails.svg)](https://gemnasium.com/kiterminal/language_select_rails)
 [![Build Status](https://travis-ci.org/kiterminal/language_select_rails.svg?branch=master)](https://travis-ci.org/kiterminal/language_select_rails)
+[![Coverage Status](https://coveralls.io/repos/kiterminal/language_select_rails/badge.svg?branch=master)](https://coveralls.io/r/kiterminal/language_select_rails?branch=master)
 [![Code Climate](https://codeclimate.com/github/kiterminal/language_select_rails/badges/gpa.svg)](https://codeclimate.com/github/kiterminal/language_select_rails)
 
 # LanguageSelectRails
