@@ -1,3 +1,6 @@
+[![Gem Version](https://badge.fury.io/rb/language_select_rails.svg)](http://badge.fury.io/rb/language_select_rails)
+[![Dependency Status](https://gemnasium.com/kiterminal/language_select_rails.svg)](https://gemnasium.com/kiterminal/language_select_rails)
+
 # LanguageSelectRails
 
 Provides a HTML select of languages for Rails. The list comes from [ISO 639 standard](https://en.wikipedia.org/wiki/ISO_639).
